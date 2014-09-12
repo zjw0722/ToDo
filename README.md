@@ -23,7 +23,7 @@
 ## C++ 编程
 
 - [ ] [C 基本函数库](cppProgram/cLibrary.md)
-- [ ] [C++ I/O](cppProgram/cppIo.md)
+- [ ] [C++ I/O](cppProgram/cppIO.md)
 - [ ] [STL 库](cppProgram/STL.md)
 - [ ] [多线程](cppProgram/multiThread.md)
 - [ ] [网络编程](cppProgram/networkProgram.md)
