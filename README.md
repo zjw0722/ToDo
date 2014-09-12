@@ -13,19 +13,20 @@
 <a name="tools"/>
 ## 工具类
 
-- [ ] GDB 基本调试方法 以及 **多线程调试**
-- [ ] [vim 基本操作 以及 配置 vim 插件使得更加高效工作](tools/vim.md)
-- [ ] [patch](tools/patch.md)
-- [ ] SVN
+- [ ] [GCC 使用方法]
+- [ ] [GDB 使用方法]
+- [ ] [makefile基本写法]
+- [ ] [vim 使用方法](tools/vim.md)
+- [ ] [vim 基本配置](tools/vimrc.md)
 
 <a name="cppProgram" />
 ## C++ 编程
 
-- [ ] C 基本函数库
-- [ ] C++ I/O
-- [ ] STL 库
-- [ ] 多线程
-- [ ] 网络编程
+- [ ] [C 基本函数库](cppProgram/cLibrary.md)
+- [ ] [C++ I/O](cppProgram/cppIo.md)
+- [ ] [STL 库](cppProgram/STL.md)
+- [ ] [多线程](cppProgram/multiThread.md)
+- [ ] [网络编程](cppProgram/networkProgram.md)
 - [ ] 图形编程
 
 <a name="linuxProgram" />
@@ -39,6 +40,9 @@
 <a name="linuxCommand" />
 ## Linux 命令
 
+- [ ] 文件命令
+- [ ] 磁盘命令
+- [ ] 网络命令
 
 <a name="regularExpression" />
 ## 正则表达式
